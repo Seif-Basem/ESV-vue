@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "head": "Animation",
+    "content": "it's a method in which figures are Manipulated to appear as moving images in traditional animation images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film today most animation are made with Computer animation",
+    "img": "imgs/anime-1.png",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "head": "Computer Animation",
+    "content": "is the process used for digitally generating animated images. encompasses both static scenes and dynamic images, while computer animation only refers to moving images. Modern computer animation usually uses 3D computer graphics to generate a three-dimensional picture",
+    "img": "imgs/anime-2.png",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "head": "Computer -Generated Imagery",
+    "content": "Also known as CGI it's an application of computer graphics made to create or contribute to images in art, printed media, video games, simulators, computer animation and VFX in films, television programs, shorts, commercials, and videos",
+    "img": "imgs/anime-3.png",
+    "direction": "row"
+  },
+  {
+    "id": 4,
+    "head": "VFX",
+    "content": "also known as Visual effects is the process by which imagery is created or manipulated outside the context of a live-action shot in filmmaking and video production. The integration of live-action footage and other live-action footage or CGI elements to create realistic imagery",
+    "img": "imgs/anime-4.png",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 5,
+    "head": "3D modeling",
+    "content": "is the process of developing a mathematical coordinate-based representation of any surface of an object in three dimensions via specialized software by manipulating edges, vertices, and polygons in a simulated 3D space Three-dimensional",
+    "img": "imgs/anime-5.png",
+    "direction": "row"
+  }
+]

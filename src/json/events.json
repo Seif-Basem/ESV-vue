@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "imgs/E3.webp",
+    "alt": "E3 2022",
+    "head": "E3 2022",
+    "paragraph": "was the 26th E3, during which hardware manufacturers, software developers, and publishers from the video game industry presented new and upcoming products. The event, organized by the Entertainment Software Association, ran as a virtual, online-only event with free access to all, from June 12-15, 2021"
+  },
+  {
+    "id": 2,
+    "img": "imgs/nintendo-direct.webp",
+    "alt": "Nintendo Direct",
+    "head": "Nintendo Direct",
+    "paragraph": "is a series of online presentation or live shows produced by Nintendo, where information regarding the company's upcoming content or franchises is presented, such as information about games and consoles.The presentations began in Japan and North America with the first edition on Oct. 21, 2011"
+  },
+  {
+    "id": 3,
+    "img": "imgs/insomnia.png",
+    "alt": "Insomnia Egypt",
+    "head": "Insomnia Egypt",
+    "paragraph": "Expanding from the LAN, Insomnia is a diverse show for gamers of all backgrounds, identities and ethnicities to come together and celebrate everything that we love about video games and popular culture. From brand new and upcoming releases, Cosplay, Indie games,and much more. on feb. 2022"
+  },
+  {
+    "id": 4,
+    "img": "imgs/state-of-play.webp",
+    "alt": "State of Play",
+    "head": "State of Play",
+    "paragraph": "a series of livestream presentations by Sony Interactive Entertainment and it is a semi-regular digital event, which showcases the latest and greatest PlayStation news, updates, reveals and announcements. it mainly focus on titles for the PlayStation brand. and the next event will be in March 9, 2022"
+  },
+  {
+    "id": 5,
+    "img": "imgs/ea-play.webp",
+    "alt": "EA Play Live",
+    "head": "EA Play Live",
+    "paragraph": "it connects global audiences with EA's biggest new games through live broadcasts, community content, and more.. it showed a new mode in Battlefield 2042, gameplay for Lost in Random, new Apex Legends and Knockout City content, plus the debut of Grid Legends and the eagerly anticipated Dead Space remake. and it happend 22 July last year"
+  },
+  {
+    "id": 6,
+    "img": "imgs/ubisoft-forward.webp",
+    "alt": "Ubisoft Forward",
+    "head": "Ubisoft Forward",
+    "paragraph": "The exclusive event where you can get the most up-to-date news on Ubisoft's live and upcoming games.You can catch it at ubisoft.com/Forward where the show will be streamed live. featuring a diverse content lineup including fan favorites, newly announced titles, and a few surprises, too. and it was June 12, last year"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "imgs/anime-blender.png",
+    "head": "Blender",
+    "p": "is a free and open-source 3D computer graphics software toolset used for creating animated films and computer games date of release : 1994"
+  },
+  {
+    "id": 2,
+    "img": "imgs/anime-daz3d.png",
+    "head": "Daz Studio",
+    "p": "it is a 3D-content and software company specializing in providing rigged 3D human models date of release : 2000"
+  },
+  {
+    "id": 3,
+    "img": "imgs/anime-sketchup.png",
+    "head": "SketchUp",
+    "p": "SketchUp is a 3D modeling computer program for a broad range of drawing and design applications date of release : 2000"
+  },
+  {
+    "id": 4,
+    "img": "imgs/anime-Fusion.png",
+    "head": "Fusion 360",
+    "p": "is a cloud-based 3D modeling, CAD, CAM, and PCB software platform for product design and manufacturing date of release : 2013"
+  },
+  {
+    "id": 5,
+    "img": "imgs/anime-houdini.png",
+    "head": "Houdini",
+    "p": "Houdini is a 3D animation software application developed by Toronto-based SideFX date of release : 2020"
+  },
+  {
+    "id": 6,
+    "img": "imgs/anime-rocket3f.png",
+    "head": "Rocket 3Fr",
+    "p": "is Free Windows based Polygonal Modeller for Concept Artists and Designers Modeling date of release : 2021"
+  },
+  {
+    "id": 7,
+    "img": "imgs/anime-wings3d.png",
+    "head": "Wings 3D",
+    "p": "Wings 3D is a free and open-source subdivision modeler inspired by Nendo and Mirai date of release : 2021"
+  },
+  {
+    "id": 8,
+    "img": "imgs/anime-unreal.png",
+    "head": "Unreal Engine",
+    "p": "Unreal is a 3D computer graphics game engine developed by Epic Games date of release : 1998"
+  },
+  {
+    "id": 9,
+    "img": "imgs/anime-unity.png",
+    "head": "unity",
+    "p": "Unity is a cross-platform game engine developed by Unity Technologies date of release : 2005"
+  }
+]

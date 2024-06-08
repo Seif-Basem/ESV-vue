@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "img": "imgs/mahmod.webp",
+    "name": "Mahmod Elsawey",
+    "title": "Fancy Freelancers Member",
+    "about": "Leader, Wordpress, Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 2,
+    "img": "imgs/ashraf.webp",
+    "name": "Mohamed Ashraf",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 3,
+    "img": "imgs/ibrahem.webp",
+    "name": "Mohamed Ibrahem",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Designer, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 4,
+    "img": "imgs/seif.webp",
+    "name": "Seif Basem",
+    "title": "Fancy Freelancers Member",
+    "about": "Programmer, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 5,
+    "img": "imgs/abdallah.webp",
+    "name": "Mohamed AbdAllah",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 6,
+    "img": "imgs/raheem.webp",
+    "name": "Abd Elrheem",
+    "title": "Fancy Freelancers Member",
+    "about": "Programmer, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 7,
+    "img": "imgs/hassan.webp",
+    "name": "Hassan Ahmed",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 8,
+    "img": "imgs/omar.webp",
+    "name": "Omar Khaled",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 9,
+    "img": "imgs/amr.webp",
+    "name": "Mohamed Amr",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 10,
+    "img": "imgs/fatma.webp",
+    "name": "Fatma Mohamed",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 11,
+    "img": "imgs/eman.webp",
+    "name": "Eman Mohamed",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 12,
+    "img": "imgs/assma.webp",
+    "name": "Asmaa Samir",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  },
+  {
+    "id": 13,
+    "img": "imgs/nada.webp",
+    "name": "Nada Karam",
+    "title": "Fancy Freelancers Member",
+    "about": "Data collector, Data Entery, Bachelor of Arts, Library and Information Science Department, Helwan university"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "head": "Electronic Sports",
+    "paragraph": "electronic sports is a form of competition using video games It often akes the form of organized multiplayer video game competitions between professional players",
+    "img": "svg/dragon.svg"
+  },
+  {
+    "id": 2,
+    "head": "Game Of The Year",
+    "paragraph": "Game of the Year is an award given by various award events and media publications to a video game that they feel represented the pinnacle of gaming that year",
+    "img": "svg/trophy.svg"
+  },
+  {
+    "id": 3,
+    "head": "Gaming",
+    "paragraph": "Gaming is the running of specialized applications known as electronic games or video games on game consoles like X-box and Playstation or on personal computers",
+    "img": "svg/gamepad.svg"
+  }
+]
